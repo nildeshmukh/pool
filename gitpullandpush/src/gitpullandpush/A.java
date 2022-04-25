@@ -19,6 +19,10 @@ public class A {
 	{
 		
 		System.out.println("This is main method");
+		A a=new A();
+		a.m1();
+		a.m2();
+		a.m4();
 
 	}
 	
