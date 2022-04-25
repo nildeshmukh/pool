@@ -2,6 +2,10 @@ package gitpullandpush;
 
 public class A {
 	
+	public void m10()
+	{
+		System.out.println("This m10 method");
+	}
 	
 	public void m1()
 	{
