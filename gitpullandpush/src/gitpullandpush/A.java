@@ -23,12 +23,18 @@ public class A {
 		a.m1();
 		a.m2();
 		a.m4();
+		a.m5();
 
 	}
 	
 	public void m4()
 	{
-		System.out.println("This m2 method");
+		System.out.println("This m4 method");
+	}
+	
+	public void m5()
+	{
+		System.out.println("This m5 method");
 	}
 
 }
